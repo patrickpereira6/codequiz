@@ -2,7 +2,6 @@
 
 ## Refactor included:
 - Does include buttons, code is broken
-- 
 
 ## Articles
 - https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/ 
