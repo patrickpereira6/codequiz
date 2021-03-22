@@ -2,6 +2,7 @@
 
 ## Refactor included:
 - Does include buttons, code is broken
+- basic Java included, some CSS
 
 ## Articles
 - https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/ 
@@ -17,6 +18,7 @@
 ![image](https://user-images.githubusercontent.com/75820760/111927794-53243800-8a88-11eb-8c58-d33eedfa1bf0.png)
 
 ## Website
+https://patrickpereira6.github.io/codequiz/
 
 ## Contribution
 Patrick Pereira
